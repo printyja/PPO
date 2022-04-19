@@ -3,7 +3,7 @@
 ## Description of task
 This program finds the cheapest solution to the 8-puzzle using BFS, DFS, and Dijkstra algorithms.
 
-##Overview 
+## Overview
 The game has 8 tiles, shaped in a 3x3 grid, where the numbers are 1 through 8. There is one gap in the puzzle that allows movement of the tiles. 
 For BFS and DFS algorithm, every one tile moving, has a cost of 1. They may move, left, up, right, and down.
 For Dijkstra Algorithm, the cost is the number that represent a tile that moves plus the number of displaced tiles.
